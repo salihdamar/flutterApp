@@ -41,7 +41,7 @@ class BenimUyg extends StatelessWidget {
                   width: 200,
                   child: Divider(
                     height: 30,
-                    color: Colors.brown,
+                    color: Colors.brown[300],
                   ),
                 ),
                 Container(
